@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 100%;
+    margin: auto;
+
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     background: linear-gradient(90deg, #72072D 20%, #FF005C 90%);
+    color: white;
+    line-height: 40px;
+}
+.search{
+     width: 750px;
+    height: 40px;
+    margin-left: 70px;
+    background: rgba(196, 196, 196, 0.14);
+    border-radius: 20px;
+    color: white;
+    padding: 15px;
+    border: transparent;
+
+}
+.headSearch h1{
+    margin-left: 60px;
+}
+
+
+.fart{
+    position: absolute;
+    width: 262px;
+    height: 61px;
+    left: 1134px;
+    top: 55px;
+}
+.search1{
+     width: 15px;
+    margin-left: -30px;
+    height: 15px;
+    border: none;
+    background: transparent;
+    color: white;
+    font-size: 15px;
+}
+.photo{
+     width: 485px;
+    height: 381px;
+    border-radius: 28px;
+}
+.phone{
+     width: 1107px;
+    height: 380px;
+
+    border-radius: 28px
+}
+.od{
+    margin-left: 150px;
+    margin-top: 50px;
+    font-size: 25px;
+    line-height: 58px;
+    color: #72072D;
+}
+.type{
+    margin-top: 55px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 55px;
+    color: #FF005C;
+}
+.cat{
+    margin-top: 50px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 48px;
+    color: #72072D;
+    margin-left: 40px;
+
+
+}
+.hero{
+    display: flex;
+    background: url("../img/Rectangle 2256.png");
+}
+.headIcon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 15%;
+    margin-right: 90px;
+    margin-top: 50px;
+}
+.headSearch{
+    display: flex;
+}
+
+
+.headsection{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: -38px;
+    color: #f6f5f5;
+}
+
+.headsection1{
+
+    margin-left: 180px;
+
+}
+.headsection h1{
+    margin-top: -70px;
+    margin-left: 20px;
+
+}
+.maybe{
+    margin-top: 60px;
+
+}
+.cat-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 15px 30px;
+}
+.cat-img h4{
+    margin-top: -25px;
+    color: black;
+}
+.cat-img h6{
+    margin-top: -20px;
+    color: black;
+}
+.fa-cat{
+    margin-left: 190px;
+    margin-top: -50px;
+}
+.maybe1{
+    padding: 8px 50px;
+    border-radius: 20px;
+    margin-left: 640px;
+    color: #D118A8;
+    border-color: #D118A8;
+}
+.maybe1:hover{
+    background: rgba(115, 0, 255, 0.41);
+    color: blue;
+}
+.footers{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(90deg, #72072D 20%, #FF005C 90%);
+    color: white;
+    line-height: 50px;
+
+
+}
+.footer2 h6{
+    margin: 10px;
+    width: 300px;
+    font-size: 10px;
+    overflow: hidden;
+
+
+
+}
